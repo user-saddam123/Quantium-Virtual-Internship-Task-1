@@ -51,6 +51,9 @@ The task assigned by Quantium focused on retail strategy and analytics. To addre
 ![page 1](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/7d213c5f-69e8-46ac-ab0f-08d05302a02d)
 
 The inaugural page served as the overview dashboard, providing a snapshot of the key metrics shaping the retail landscape.
+
+#### Key Performance Indicators (KPIs):
+
 ![10](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/b97ce844-55d3-4749-890e-12c8a9c556fc)
 
  * Total Sales: $1.93 million
