@@ -14,11 +14,12 @@
 ### Project Objective:
 During my virtual internship at Quantium, I undertook a key task that involved conducting a comprehensive analysis of the chip category. The primary objective was to provide strategic recommendations for the impending category review, led by Julia, the Category Manager. This task was instrumental in honing my analytical skills and applying them to real-world business scenarios.
 
+[Home](#tables-of-content)
 ### Project Overview:
 During my virtual internship at Forage with Quantium, I undertook a pivotal project involving retail strategy and analytics. This marked my inaugural project, dealing with a sizable dataset of approximately 2.5 lakhs rows. The primary tools utilized for data analysis were Power BI and Excel, with a focus on meticulous data cleaning and insightful visualizations.
 
 ### Project Requirements: 
-
+[Home](#tables-of-content)
  * Data Cleaning:
 Meticulously examined transaction data for inconsistencies, missing values, and outliers using Power BI.
 Implemented data cleaning processes to ensure the dataset's integrity.
@@ -194,6 +195,7 @@ This thorough and meticulously crafted analysis not only showcases my adept use 
 
 ## Page 4: All Products Analysis - Comprehensive Overview:
 [Home](#tables-of-content)
+
 ![page 4](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/fed30e6e-ab2b-4c08-ab1d-6dee9be7ebee)
 
 This section of the project focused on providing a comprehensive overview of all products, incorporating essential key performance indicators (KPIs) and insightful analyses.
