@@ -1,6 +1,12 @@
 # Quantium-Virtual-Internship-Task-1
 ## Presented and Analyze by- Saddam Ansari @Aspiring Data Analyst [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
 
+## Tables of content:
+ 1. [Project Objective](#project-objective)
+ 2. [Project Overview](#project-overview)
+ 3. [Project Requirements](#project-requirements)
+ 4. [Page One](#page-One-retail-analysis-home-overview-dashboard)
+
 ### Project Objective:
 During my virtual internship at Quantium, I undertook a key task that involved conducting a comprehensive analysis of the chip category. The primary objective was to provide strategic recommendations for the impending category review, led by Julia, the Category Manager. This task was instrumental in honing my analytical skills and applying them to real-world business scenarios.
 
