@@ -5,7 +5,11 @@
  1. [Project Objective](#project-objective)
  2. [Project Overview](#project-overview)
  3. [Project Requirements](#project-requirements)
- 4. [Page One](#page-One-retail-analysis-home-overview-dashboard)
+ 4. [Page One](#page-One-retail-analytics---home-overview-dashboard)
+ 5. [Page Two](#page-two-product-overview---weighted-sales-analysis)
+ 6. [Page Three](#page-three-chips-products-analysis---unveiling-insights)
+ 7. [Page Four](#page-4-all-products-analysis---comprehensive-overview)
+ 8. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkedin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
 
 ### Project Objective:
 During my virtual internship at Quantium, I undertook a key task that involved conducting a comprehensive analysis of the chip category. The primary objective was to provide strategic recommendations for the impending category review, led by Julia, the Category Manager. This task was instrumental in honing my analytical skills and applying them to real-world business scenarios.
