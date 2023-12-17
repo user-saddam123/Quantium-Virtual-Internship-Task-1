@@ -47,6 +47,7 @@ The task assigned by Quantium focused on retail strategy and analytics. To addre
 
 ## Page One: Retail Analysis Home - Overview Dashboard:
 [Home](#tables-of-content)
+
 ![page 1](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/7d213c5f-69e8-46ac-ab0f-08d05302a02d)
 
 The inaugural page served as the overview dashboard, providing a snapshot of the key metrics shaping the retail landscape.
@@ -83,6 +84,7 @@ This initial overview page not only set the stage for subsequent analyses but al
 #
 ## Page Two: Product Overview - Weighted Sales Analysis:
 [Home](#tables-of-content)
+
 ![page 2](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/80e667af-87b2-4e94-86b9-3ab8429b4da3)
 
 This section of the project focuses on providing an in-depth analysis of product sales, incorporating various key performance indicators (KPIs) and charts for a comprehensive overview.
@@ -138,6 +140,7 @@ This meticulous analysis provides valuable insights into product sales trends, c
 
 ## Page Three: Chips Products Analysis - Unveiling Insights:
 [Home](#tables-of-content)
+
 ![page 3](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-1/assets/123800896/70d6052d-6e38-4b06-b1b3-973140a1433d)
 
 This segment constitutes the heart of the entire report, providing an in-depth analysis focused exclusively on chips products.
